@@ -1,3 +1,7 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=oussamabadr_FizzBuzzKata&metric=alert_status)](https://sonarcloud.io/dashboard?id=oussamabadr_FizzBuzzKata) [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=oussamabadr_FizzBuzzKata&metric=code_smells)](https://sonarcloud.io/dashboard?id=oussamabadr_FizzBuzzKata)  [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=oussamabadr_FizzBuzzKata&metric=sqale_index)](https://sonarcloud.io/dashboard?id=oussamabadr_FizzBuzzKata)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=oussamabadr_FizzBuzzKata&metric=coverage)](https://sonarcloud.io/dashboard?id=oussamabadr_FizzBuzzKata)
+
+
 Sample Fizzbuzz implementations
 ===============================
 
